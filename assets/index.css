@@ -1,3 +1,7 @@
+p {
+  background-color: red;
+}
+
 .fnc {
   /* you can add color names and their values here
   and then simply add classes like .m--blend-$colorName to .fnc-slide 
