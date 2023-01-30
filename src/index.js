@@ -159,12 +159,7 @@
   
   /* not part of the slider scripts */
   
-  /* Slider initialization
-  options:
-  autoSliding - boolean
-  autoSlidingDelay - delay in ms. If audoSliding is on and no value provided, default value is 5000
-  blockASafterClick - boolean. If user clicked any sliding control, autosliding won't start again
-  */
+  /* Slider initializationoptions: */
   fncSlider(".example-slider", {autoSlidingDelay: 4000});
   
  let $demoCont = document.querySelector(".demo-cont");
